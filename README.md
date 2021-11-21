@@ -1,5 +1,6 @@
 # Desafio-Intelie-estagio
-Segunda etapa do processo de seleção
+Segunda etapa do processo de seleção:
+https://github.com/echiesse/desafios_programacao/blob/master/004-Cotacao_moedas.md
 
 Um script pensado para retornar o país e o símbolo da moeda de menor cotação no dia especificado e também o valor da cotação desta moeda frente ao dólar.
 
